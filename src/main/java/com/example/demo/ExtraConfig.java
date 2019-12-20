@@ -19,8 +19,6 @@ public class ExtraConfig {
         this.luongnv = luongnv;
     }
 
-    @Component
-    @PropertySource("classpath:extra-configuration.properties")
     public class Jwt {
 
         private String secret;

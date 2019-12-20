@@ -27,4 +27,26 @@
         </createTable>
     </changeSet>
 
+    <changeSet id="create_table_user" author="Luongnv">
+        <createTable tableName="USER_SPRING">
+            <column name="ID" type="number">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="NAME" type="varchar(255)">
+            </column>
+            <column name="CREATED_AT" type="date"/>
+            <column name="UPDATED_AT" type="date"/>
+        </createTable>
+    </changeSet>
+
+    <changeSet id="create_table_sys_config" author="Luongnv">
+        <createTable tableName="SYS_CONFIG">
+            <column name="ID" type="number">
+                <constraints primaryKey="true" nullable="false"/>
+            </column>
+            <column name="KEY" type="varchar(255)"/>
+            <column name="VALUE" type="varchar(255)"/>
+        </createTable>
+    </changeSet>
+
 </databaseChangeLog>
