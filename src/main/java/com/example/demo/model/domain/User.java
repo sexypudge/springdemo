@@ -21,7 +21,8 @@ public class User extends DateAudit implements Serializable {
     public void setId(Long id) {
         this.id = id;
     }
-    private List<SysConfig> sysConfigs;
+
+//    private List<SysConfig> sysConfigs;
 
     public Long getId() {
         return id;
@@ -35,13 +36,13 @@ public class User extends DateAudit implements Serializable {
         this.name = name;
     }
 
-    public List<SysConfig> getSysConfigs() {
-        return sysConfigs;
-    }
-
-    public void setSysConfigs(List<SysConfig> sysConfigs) {
-        this.sysConfigs = sysConfigs;
-    }
+//    public List<SysConfig> getSysConfigs() {
+//        return sysConfigs;
+//    }
+//
+//    public void setSysConfigs(List<SysConfig> sysConfigs) {
+//        this.sysConfigs = sysConfigs;
+//    }
 
     @Override
     public String toString() {

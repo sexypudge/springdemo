@@ -1,20 +1,20 @@
-2019-07-24 10:55:02.767  INFO 7764 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 7764 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
-2019-07-24 10:55:02.773  INFO 7764 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
-2019-07-24 10:55:02.816  INFO 7764 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2019-07-24 10:55:02.816  INFO 7764 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2019-07-24 10:55:03.728  INFO 7764 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
-2019-07-24 10:55:03.826  INFO 7764 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 84ms. Found 1 repository interfaces.
-2019-07-24 10:55:04.328  INFO 7764 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3ca1954d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2019-07-24 10:55:04.985  INFO 7764 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
-2019-07-24 10:55:05.014  INFO 7764 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-07-24 10:55:05.015  INFO 7764 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-07-24 10:55:05.185  INFO 7764 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
-2019-07-24 10:55:05.187  INFO 7764 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2371 ms
-2019-07-24 10:55:05.443  INFO 7764 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2019-07-24 10:55:05.722  INFO 7764 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
-2019-07-24 10:55:05.762  INFO 7764 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2019-07-24 10:55:06.297  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:06.302  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:27:31.329  INFO 7336 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 7336 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
+2020-02-27 11:27:31.337  INFO 7336 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
+2020-02-27 11:27:31.389  INFO 7336 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 11:27:31.390  INFO 7336 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 11:27:32.272  INFO 7336 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-02-27 11:27:32.380  INFO 7336 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 99ms. Found 1 repository interfaces.
+2020-02-27 11:27:32.908  INFO 7336 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$63b4360d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-27 11:27:33.457  INFO 7336 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2020-02-27 11:27:33.486  INFO 7336 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 11:27:33.487  INFO 7336 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-02-27 11:27:33.631  INFO 7336 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
+2020-02-27 11:27:33.632  INFO 7336 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2242 ms
+2020-02-27 11:27:33.857  INFO 7336 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-27 11:27:34.204  INFO 7336 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
+2020-02-27 11:27:34.243  INFO 7336 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-27 11:27:34.764  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:34.765  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -22,16 +22,16 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 10:55:06.310  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:06.311  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 10:55:06.318  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:06.319  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 10:55:06.321  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:06.322  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
-2019-07-24 10:55:06.328  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:06.336  INFO 7764 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
-2019-07-24 10:55:06.990  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
-2019-07-24 10:55:07.010  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:27:34.771  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:34.771  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:27:34.781  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:34.781  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:27:34.781  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:34.791  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
+2020-02-27 11:27:34.791  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:34.811  INFO 7336 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
+2020-02-27 11:27:35.531  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
+2020-02-27 11:27:35.563  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -39,53 +39,52 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 10:55:07.088  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:07.089  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
-2019-07-24 10:55:07.093  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:07.094  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:07.094  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
-2019-07-24 10:55:07.096  INFO 7764 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
-2019-07-24 10:55:07.097  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:07.098  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
-2019-07-24 10:55:07.115  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:55:07.118  INFO 7764 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
-2019-07-24 10:55:07.261  INFO 7764 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+2020-02-27 11:27:35.645  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:35.646  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
+2020-02-27 11:27:35.653  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:35.654  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:35.655  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
+2020-02-27 11:27:35.656  INFO 7336 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
+2020-02-27 11:27:35.656  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:35.657  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+2020-02-27 11:27:35.675  INFO 7336 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:27:35.678  INFO 7336 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
+2020-02-27 11:27:35.812  INFO 7336 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
 	name: default
 	...]
-2019-07-24 10:55:07.365  INFO 7764 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
-2019-07-24 10:55:07.367  INFO 7764 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
-2019-07-24 10:55:07.630  INFO 7764 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
-2019-07-24 10:55:07.874  INFO 7764 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
-2019-07-24 10:55:08.373  INFO 7764 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
-2019-07-24 10:55:08.754  INFO 7764 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 10:55:09.471  WARN 7764 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2019-07-24 10:55:09.700  WARN 7764 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
-2019-07-24 10:55:09.986  INFO 7764 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7ef6f46e, org.springframework.security.web.context.SecurityContextPersistenceFilter@487d9ed2, org.springframework.security.web.header.HeaderWriterFilter@529c79c5, org.springframework.security.web.csrf.CsrfFilter@649ef929, org.springframework.security.web.authentication.logout.LogoutFilter@63dd3b0d, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7e7f8177, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4c12bb8e, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@277cfb82, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@77cd513f, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@18c99c17, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@f38b80b, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@b8d3c3f, org.springframework.security.web.session.SessionManagementFilter@31ba45a9, org.springframework.security.web.access.ExceptionTranslationFilter@59c7a0be, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2eb640c7]
-2019-07-24 10:55:10.014  WARN 7764 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-2019-07-24 10:55:10.097  INFO 7764 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2019-07-24 10:55:10.167  INFO 7764 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
-2019-07-24 10:55:10.170  INFO 7764 --- [restartedMain] com.example.demo.Application             : Started Application in 8.613 seconds (JVM running for 10.966)
-2019-07-24 10:55:51.836  INFO 7764 --- [http-nio-9999-exec-1] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-07-24 10:55:51.837  INFO 7764 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-07-24 10:55:51.846  INFO 7764 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
-2019-07-24 10:56:36.966  INFO 7764 --- [Thread-24] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 10:56:36.972  INFO 7764 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2019-07-24 10:56:36.975  INFO 7764 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2019-07-24 10:56:37.836  INFO 7764 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 7764 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
-2019-07-24 10:56:37.837  INFO 7764 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
-2019-07-24 10:56:38.169  INFO 7764 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
-2019-07-24 10:56:38.190  INFO 7764 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21ms. Found 1 repository interfaces.
-2019-07-24 10:56:38.268  INFO 7764 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3ca1954d] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2019-07-24 10:56:38.424  INFO 7764 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
-2019-07-24 10:56:38.425  INFO 7764 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-07-24 10:56:38.426  INFO 7764 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-07-24 10:56:38.448  INFO 7764 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
-2019-07-24 10:56:38.449  INFO 7764 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 609 ms
-2019-07-24 10:56:38.493  INFO 7764 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
-2019-07-24 10:56:38.504  INFO 7764 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-2 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
-2019-07-24 10:56:38.506  INFO 7764 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
-2019-07-24 10:56:38.654  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.656  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:27:35.904  INFO 7336 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
+2020-02-27 11:27:35.906  INFO 7336 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2020-02-27 11:27:36.101  INFO 7336 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-02-27 11:27:36.314  INFO 7336 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-27 11:27:36.769  INFO 7336 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
+2020-02-27 11:27:37.089  INFO 7336 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:27:37.797  WARN 7336 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-27 11:27:38.019  WARN 7336 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2020-02-27 11:27:38.265  INFO 7336 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@23e268fb, org.springframework.security.web.context.SecurityContextPersistenceFilter@4a814479, org.springframework.security.web.header.HeaderWriterFilter@226c82fc, org.springframework.security.web.csrf.CsrfFilter@4e5a8ca, org.springframework.security.web.authentication.logout.LogoutFilter@33ddbc56, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@32cefec6, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4ccd761b, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4787095d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@209af2b4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@787d7783, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@21ccb578, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7ed2188f, org.springframework.security.web.session.SessionManagementFilter@7ee3be9a, org.springframework.security.web.access.ExceptionTranslationFilter@7a7a046a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2a68e4d3]
+2020-02-27 11:27:38.294  WARN 7336 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-02-27 11:27:38.386  INFO 7336 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 11:27:38.457  INFO 7336 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
+2020-02-27 11:27:38.462  INFO 7336 --- [restartedMain] com.example.demo.Application             : Started Application in 8.561 seconds (JVM running for 11.286)
+2020-02-27 11:27:57.566  INFO 7336 --- [Thread-28] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:27:57.569  INFO 7336 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-27 11:27:57.571  INFO 7336 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-27 11:28:04.141  INFO 1748 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 1748 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
+2020-02-27 11:28:04.141  INFO 1748 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
+2020-02-27 11:28:04.227  INFO 1748 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2020-02-27 11:28:04.227  INFO 1748 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2020-02-27 11:28:05.136  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-02-27 11:28:05.228  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 82ms. Found 1 repository interfaces.
+2020-02-27 11:28:05.702  INFO 1748 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$14288a0e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-27 11:28:06.192  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2020-02-27 11:28:06.215  INFO 1748 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 11:28:06.215  INFO 1748 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-02-27 11:28:06.353  INFO 1748 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
+2020-02-27 11:28:06.353  INFO 1748 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2125 ms
+2020-02-27 11:28:06.589  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2020-02-27 11:28:06.882  INFO 1748 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
+2020-02-27 11:28:06.918  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2020-02-27 11:28:07.389  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:07.394  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -93,16 +92,16 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 10:56:38.659  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.660  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 10:56:38.663  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.665  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 10:56:38.668  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.669  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
-2019-07-24 10:56:38.670  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.674  INFO 7764 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
-2019-07-24 10:56:38.699  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
-2019-07-24 10:56:38.715  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:28:07.400  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:07.401  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:28:07.402  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:07.403  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:28:07.405  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:07.406  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
+2020-02-27 11:28:07.408  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:07.408  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
+2020-02-27 11:28:07.977  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
+2020-02-27 11:28:07.981  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -110,50 +109,50 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 10:56:38.759  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.760  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
-2019-07-24 10:56:38.761  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.762  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.763  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
-2019-07-24 10:56:38.764  INFO 7764 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
-2019-07-24 10:56:38.764  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.765  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
-2019-07-24 10:56:38.771  INFO 7764 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 10:56:38.775  INFO 7764 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
-2019-07-24 10:56:38.803  INFO 7764 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+2020-02-27 11:28:08.010  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:08.011  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
+2020-02-27 11:28:08.012  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:08.013  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:08.014  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
+2020-02-27 11:28:08.015  INFO 1748 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
+2020-02-27 11:28:08.015  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:08.016  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+2020-02-27 11:28:08.032  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:08.034  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
+2020-02-27 11:28:08.149  INFO 1748 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
 	name: default
 	...]
-2019-07-24 10:56:38.817  INFO 7764 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
-2019-07-24 10:56:38.853  INFO 7764 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
-2019-07-24 10:56:38.874  INFO 7764 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 10:56:39.004  WARN 7764 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2019-07-24 10:56:39.049  WARN 7764 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
-2019-07-24 10:56:39.100  INFO 7764 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@44708a3d, org.springframework.security.web.context.SecurityContextPersistenceFilter@7ac03ba4, org.springframework.security.web.header.HeaderWriterFilter@2266d986, org.springframework.security.web.csrf.CsrfFilter@5a951da, org.springframework.security.web.authentication.logout.LogoutFilter@5f3cb316, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@229d5de9, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@24daa132, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2094b2dd, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6fb5d7ad, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@41e7d94b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@55d98218, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@682ec133, org.springframework.security.web.session.SessionManagementFilter@35a88b4a, org.springframework.security.web.access.ExceptionTranslationFilter@9965156, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7202c05e]
-2019-07-24 10:56:39.119  WARN 7764 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-2019-07-24 10:56:39.144  INFO 7764 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2019-07-24 10:56:39.177  INFO 7764 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
-2019-07-24 10:56:39.178  INFO 7764 --- [restartedMain] com.example.demo.Application             : Started Application in 1.768 seconds (JVM running for 99.974)
-2019-07-24 10:56:39.181  INFO 7764 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
-2019-07-24 11:34:03.776  INFO 7764 --- [Thread-38] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:34:03.779  INFO 7764 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
-2019-07-24 11:34:03.781  INFO 7764 --- [Thread-38] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
-2019-07-24 11:34:10.890  INFO 1548 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 1548 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
-2019-07-24 11:34:10.896  INFO 1548 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
-2019-07-24 11:34:10.972  INFO 1548 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2019-07-24 11:34:10.972  INFO 1548 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2019-07-24 11:34:11.914  INFO 1548 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
-2019-07-24 11:34:12.005  INFO 1548 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 81ms. Found 1 repository interfaces.
-2019-07-24 11:34:12.509  INFO 1548 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2f70240f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2019-07-24 11:34:13.116  INFO 1548 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
-2019-07-24 11:34:13.143  INFO 1548 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-07-24 11:34:13.143  INFO 1548 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-07-24 11:34:13.303  INFO 1548 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
-2019-07-24 11:34:13.304  INFO 1548 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2332 ms
-2019-07-24 11:34:13.543  INFO 1548 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2019-07-24 11:34:13.814  INFO 1548 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
-2019-07-24 11:34:13.852  INFO 1548 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2019-07-24 11:34:14.369  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:14.376  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:28:08.237  INFO 1748 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
+2020-02-27 11:28:08.241  INFO 1748 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2020-02-27 11:28:08.466  INFO 1748 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2020-02-27 11:28:08.670  INFO 1748 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-27 11:28:09.081  INFO 1748 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
+2020-02-27 11:28:09.404  INFO 1748 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:28:10.126  WARN 1748 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-27 11:28:10.334  WARN 1748 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2020-02-27 11:28:10.599  INFO 1748 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75bdbee, org.springframework.security.web.context.SecurityContextPersistenceFilter@7beb1700, org.springframework.security.web.header.HeaderWriterFilter@1dc55d74, org.springframework.security.web.csrf.CsrfFilter@753779ef, org.springframework.security.web.authentication.logout.LogoutFilter@22fdfaca, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@322d695e, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@1f0d7640, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4f8cfbe0, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@6cc84ddd, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@44776a2e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@384549e8, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2061d4b8, org.springframework.security.web.session.SessionManagementFilter@221212e6, org.springframework.security.web.access.ExceptionTranslationFilter@b2ff045, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@449613c1]
+2020-02-27 11:28:10.615  WARN 1748 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-02-27 11:28:10.701  INFO 1748 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 11:28:10.768  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
+2020-02-27 11:28:10.773  INFO 1748 --- [restartedMain] com.example.demo.Application             : Started Application in 7.834 seconds (JVM running for 9.126)
+2020-02-27 11:28:30.696  INFO 1748 --- [Thread-24] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:28:30.700  INFO 1748 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2020-02-27 11:28:30.702  INFO 1748 --- [Thread-24] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-27 11:28:31.416  INFO 1748 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 1748 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
+2020-02-27 11:28:31.417  INFO 1748 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
+2020-02-27 11:28:31.880  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-02-27 11:28:31.920  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 39ms. Found 1 repository interfaces.
+2020-02-27 11:28:32.081  INFO 1748 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$14288a0e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-27 11:28:32.305  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2020-02-27 11:28:32.313  INFO 1748 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 11:28:32.313  INFO 1748 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-02-27 11:28:32.344  INFO 1748 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
+2020-02-27 11:28:32.344  INFO 1748 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 924 ms
+2020-02-27 11:28:32.394  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2020-02-27 11:28:32.413  INFO 1748 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-2 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
+2020-02-27 11:28:32.414  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2020-02-27 11:28:32.558  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.559  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -161,16 +160,16 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 11:34:14.383  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:14.384  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:34:14.386  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:14.387  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:34:14.389  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:14.389  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
-2019-07-24 11:34:14.396  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:14.403  INFO 1548 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
-2019-07-24 11:34:14.983  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
-2019-07-24 11:34:15.000  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:28:32.561  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.561  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:28:32.563  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.563  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:28:32.564  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.564  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
+2020-02-27 11:28:32.565  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.569  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
+2020-02-27 11:28:32.595  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
+2020-02-27 11:28:32.609  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -178,56 +177,48 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 11:34:15.072  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:15.074  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
-2019-07-24 11:34:15.075  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:15.076  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:15.077  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
-2019-07-24 11:34:15.079  INFO 1548 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
-2019-07-24 11:34:15.079  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:15.080  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
-2019-07-24 11:34:15.098  INFO 1548 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:34:15.101  INFO 1548 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
-2019-07-24 11:34:15.223  INFO 1548 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+2020-02-27 11:28:32.652  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.652  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
+2020-02-27 11:28:32.653  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.654  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.655  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
+2020-02-27 11:28:32.656  INFO 1748 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
+2020-02-27 11:28:32.656  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.657  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+2020-02-27 11:28:32.664  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:28:32.667  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
+2020-02-27 11:28:32.701  INFO 1748 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
 	name: default
 	...]
-2019-07-24 11:34:15.314  INFO 1548 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
-2019-07-24 11:34:15.316  INFO 1548 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
-2019-07-24 11:34:15.502  INFO 1548 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
-2019-07-24 11:34:15.720  INFO 1548 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
-2019-07-24 11:34:16.115  INFO 1548 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
-2019-07-24 11:34:16.457  INFO 1548 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:34:17.146  WARN 1548 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2019-07-24 11:34:17.351  WARN 1548 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
-2019-07-24 11:34:17.627  INFO 1548 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3c16cece, org.springframework.security.web.context.SecurityContextPersistenceFilter@3e4d8a69, org.springframework.security.web.header.HeaderWriterFilter@76bb5bb8, org.springframework.security.web.csrf.CsrfFilter@68c44761, org.springframework.security.web.authentication.logout.LogoutFilter@30220c05, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@87454c3, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@188f7689, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@4af0b139, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@61f25611, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@1e814df5, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@301b4ced, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6f71a9c0, org.springframework.security.web.session.SessionManagementFilter@24a1deb9, org.springframework.security.web.access.ExceptionTranslationFilter@65ff3a0, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1ebc4b85]
-2019-07-24 11:34:17.657  WARN 1548 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-2019-07-24 11:34:17.737  INFO 1548 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2019-07-24 11:34:17.806  INFO 1548 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
-2019-07-24 11:34:17.810  INFO 1548 --- [restartedMain] com.example.demo.Application             : Started Application in 8.58 seconds (JVM running for 11.378)
-2019-07-24 11:34:20.464  INFO 1548 --- [http-nio-9999-exec-1] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-07-24 11:34:20.465  INFO 1548 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-07-24 11:34:20.473  INFO 1548 --- [http-nio-9999-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
-2019-07-24 11:36:33.795  WARN 1548 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m19s841ms273µs100ns).
-2019-07-24 11:36:33.839  INFO 1548 --- [Thread-28] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:36:33.847  INFO 1548 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2019-07-24 11:36:33.851  INFO 1548 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2019-07-24 11:36:40.267  INFO 12408 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 12408 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
-2019-07-24 11:36:40.270  INFO 12408 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
-2019-07-24 11:36:40.313  INFO 12408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2019-07-24 11:36:40.314  INFO 12408 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2019-07-24 11:36:41.141  INFO 12408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
-2019-07-24 11:36:41.229  INFO 12408 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 79ms. Found 1 repository interfaces.
-2019-07-24 11:36:41.735  INFO 12408 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$5e918197] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2019-07-24 11:36:42.352  INFO 12408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
-2019-07-24 11:36:42.380  INFO 12408 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-07-24 11:36:42.380  INFO 12408 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-07-24 11:36:42.539  INFO 12408 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
-2019-07-24 11:36:42.539  INFO 12408 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2225 ms
-2019-07-24 11:36:42.789  INFO 12408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2019-07-24 11:36:43.060  INFO 12408 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
-2019-07-24 11:36:43.097  INFO 12408 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2019-07-24 11:36:43.576  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:43.583  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:28:32.717  INFO 1748 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-27 11:28:32.753  INFO 1748 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
+2020-02-27 11:28:32.790  INFO 1748 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:28:32.912  WARN 1748 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-27 11:28:32.955  WARN 1748 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2020-02-27 11:28:33.000  INFO 1748 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f39d00f, org.springframework.security.web.context.SecurityContextPersistenceFilter@6868ef1a, org.springframework.security.web.header.HeaderWriterFilter@31a85d44, org.springframework.security.web.csrf.CsrfFilter@ec25258, org.springframework.security.web.authentication.logout.LogoutFilter@1ac85a81, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@7bd9c180, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@35f7631a, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2fa45a83, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@5502d015, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@132dff82, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@609cc2de, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1a445b36, org.springframework.security.web.session.SessionManagementFilter@74242354, org.springframework.security.web.access.ExceptionTranslationFilter@67a393b6, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@36ccc033]
+2020-02-27 11:28:33.013  WARN 1748 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-02-27 11:28:33.036  INFO 1748 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 11:28:33.069  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
+2020-02-27 11:28:33.070  INFO 1748 --- [restartedMain] com.example.demo.Application             : Started Application in 1.989 seconds (JVM running for 31.423)
+2020-02-27 11:28:33.079  INFO 1748 --- [SimpleAsyncTaskExecutor-24] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2020-02-27 11:45:36.200  INFO 1748 --- [Thread-32] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:45:36.201  INFO 1748 --- [Thread-32] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2020-02-27 11:45:36.203  INFO 1748 --- [Thread-32] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2020-02-27 11:45:36.885  INFO 1748 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 1748 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
+2020-02-27 11:45:36.885  INFO 1748 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
+2020-02-27 11:45:37.295  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2020-02-27 11:45:37.329  INFO 1748 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 33ms. Found 1 repository interfaces.
+2020-02-27 11:45:37.460  INFO 1748 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$14288a0e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-27 11:45:37.675  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
+2020-02-27 11:45:37.690  INFO 1748 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-02-27 11:45:37.690  INFO 1748 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2020-02-27 11:45:37.723  INFO 1748 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
+2020-02-27 11:45:37.724  INFO 1748 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 836 ms
+2020-02-27 11:45:37.794  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2020-02-27 11:45:37.816  INFO 1748 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-3 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
+2020-02-27 11:45:37.818  INFO 1748 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2020-02-27 11:45:38.019  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.020  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -235,16 +226,16 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 11:36:43.589  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:43.590  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:36:43.592  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:43.594  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:36:43.595  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:43.595  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
-2019-07-24 11:36:43.601  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:43.608  INFO 12408 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
-2019-07-24 11:36:44.188  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
-2019-07-24 11:36:44.204  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
+2020-02-27 11:45:38.022  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.023  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:45:38.026  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.027  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
+2020-02-27 11:45:38.028  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.029  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
+2020-02-27 11:45:38.031  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.034  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
+2020-02-27 11:45:38.060  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
+2020-02-27 11:45:38.077  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
          WHEN 1 THEN 'Personal'
          WHEN 2 THEN 'Standard'
          WHEN 3 THEN 'Enterprise'
@@ -252,109 +243,27 @@
          WHEN 5 THEN 'Azure'
          ELSE 'Unknown'
        END
-2019-07-24 11:36:44.268  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:44.269  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
-2019-07-24 11:36:44.271  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:44.272  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:44.272  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
-2019-07-24 11:36:44.274  INFO 12408 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
-2019-07-24 11:36:44.274  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:44.275  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
-2019-07-24 11:36:44.292  INFO 12408 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:36:44.296  INFO 12408 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
-2019-07-24 11:36:44.415  INFO 12408 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+2020-02-27 11:45:38.126  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.127  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
+2020-02-27 11:45:38.128  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.129  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.130  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
+2020-02-27 11:45:38.131  INFO 1748 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
+2020-02-27 11:45:38.131  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.132  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
+2020-02-27 11:45:38.138  INFO 1748 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
+2020-02-27 11:45:38.140  INFO 1748 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
+2020-02-27 11:45:38.171  INFO 1748 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
 	name: default
 	...]
-2019-07-24 11:36:44.507  INFO 12408 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
-2019-07-24 11:36:44.510  INFO 12408 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
-2019-07-24 11:36:44.705  INFO 12408 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
-2019-07-24 11:36:44.924  INFO 12408 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
-2019-07-24 11:36:45.347  INFO 12408 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
-2019-07-24 11:36:45.690  INFO 12408 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:36:46.359  WARN 12408 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2019-07-24 11:36:46.565  WARN 12408 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
-2019-07-24 11:36:46.816  INFO 12408 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@243f4dd4, org.springframework.security.web.context.SecurityContextPersistenceFilter@56e6699, org.springframework.security.web.header.HeaderWriterFilter@68cb78da, org.springframework.security.web.csrf.CsrfFilter@caaba63, org.springframework.security.web.authentication.logout.LogoutFilter@4d628ec, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@53d0dcb4, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@44d1c9db, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@146d3cf3, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@537abb23, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5c9c344b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@24a3c335, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@45d046c2, org.springframework.security.web.session.SessionManagementFilter@2664b936, org.springframework.security.web.access.ExceptionTranslationFilter@4b4ef1d1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@196eeb77]
-2019-07-24 11:36:46.845  WARN 12408 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-2019-07-24 11:36:46.921  INFO 12408 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2019-07-24 11:36:46.992  INFO 12408 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
-2019-07-24 11:36:46.996  INFO 12408 --- [restartedMain] com.example.demo.Application             : Started Application in 8.311 seconds (JVM running for 9.434)
-2019-07-24 11:36:51.209  INFO 12408 --- [http-nio-9999-exec-2] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-07-24 11:36:51.210  INFO 12408 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-07-24 11:36:51.219  INFO 12408 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 8 ms
-2019-07-24 11:38:26.366  INFO 12408 --- [Thread-27] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:38:26.371  INFO 12408 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2019-07-24 11:38:26.380  INFO 12408 --- [Thread-27] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2019-07-24 11:38:36.120  INFO 2732 --- [restartedMain] com.example.demo.Application             : Starting Application on NguyenVanLuong with PID 2732 (C:\Users\GEM\Documents\SpringProject\demoSpring\target\classes started by GEM in C:\Users\GEM\Documents\SpringProject\demoSpring)
-2019-07-24 11:38:36.123  INFO 2732 --- [restartedMain] com.example.demo.Application             : No active profile set, falling back to default profiles: default
-2019-07-24 11:38:36.164  INFO 2732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2019-07-24 11:38:36.164  INFO 2732 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2019-07-24 11:38:36.992  INFO 2732 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
-2019-07-24 11:38:37.093  INFO 2732 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 88ms. Found 1 repository interfaces.
-2019-07-24 11:38:37.580  INFO 2732 --- [restartedMain] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ccfae308] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
-2019-07-24 11:38:38.177  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9999 (http)
-2019-07-24 11:38:38.209  INFO 2732 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2019-07-24 11:38:38.209  INFO 2732 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
-2019-07-24 11:38:38.357  INFO 2732 --- [restartedMain] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring embedded WebApplicationContext
-2019-07-24 11:38:38.358  INFO 2732 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 2194 ms
-2019-07-24 11:38:38.611  INFO 2732 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2019-07-24 11:38:38.879  INFO 2732 --- [restartedMain] com.zaxxer.hikari.pool.PoolBase          : HikariPool-1 - Driver does not support get/set network timeout for connections. (This operation is not supported.)
-2019-07-24 11:38:38.917  INFO 2732 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2019-07-24 11:38:39.433  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:39.439  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
-         WHEN 1 THEN 'Personal'
-         WHEN 2 THEN 'Standard'
-         WHEN 3 THEN 'Enterprise'
-         WHEN 4 THEN 'Express'
-         WHEN 5 THEN 'Azure'
-         ELSE 'Unknown'
-       END
-2019-07-24 11:38:39.445  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:39.446  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:38:39.448  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:39.449  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOGLOCK
-2019-07-24 11:38:39.451  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:39.451  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT LOCKED FROM DATABASECHANGELOGLOCK WHERE ID=1
-2019-07-24 11:38:39.457  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:39.463  INFO 2732 --- [restartedMain] l.lockservice.StandardLockService        : Successfully acquired change log lock
-2019-07-24 11:38:40.045  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CONVERT([sysname], DATABASEPROPERTYEX(N'springdb', 'Collation'))
-2019-07-24 11:38:40.061  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT CASE ServerProperty('EngineEdition')
-         WHEN 1 THEN 'Personal'
-         WHEN 2 THEN 'Standard'
-         WHEN 3 THEN 'Enterprise'
-         WHEN 4 THEN 'Express'
-         WHEN 5 THEN 'Azure'
-         ELSE 'Unknown'
-       END
-2019-07-24 11:38:40.126  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:40.127  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT TOP 1 MD5SUM FROM DATABASECHANGELOG WHERE MD5SUM IS NOT NULL
-2019-07-24 11:38:40.129  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:40.130  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:40.131  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT COUNT(*) FROM DATABASECHANGELOG
-2019-07-24 11:38:40.132  INFO 2732 --- [restartedMain] l.c.StandardChangeLogHistoryService      : Reading from DATABASECHANGELOG
-2019-07-24 11:38:40.133  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:40.133  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : SELECT * FROM DATABASECHANGELOG ORDER BY DATEEXECUTED ASC, ORDEREXECUTED ASC
-2019-07-24 11:38:40.151  INFO 2732 --- [restartedMain] liquibase.executor.jvm.JdbcExecutor      : select schema_name()
-2019-07-24 11:38:40.154  INFO 2732 --- [restartedMain] l.lockservice.StandardLockService        : Successfully released change log lock
-2019-07-24 11:38:40.275  INFO 2732 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
-	name: default
-	...]
-2019-07-24 11:38:40.365  INFO 2732 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.10.Final}
-2019-07-24 11:38:40.367  INFO 2732 --- [restartedMain] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
-2019-07-24 11:38:40.555  INFO 2732 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
-2019-07-24 11:38:40.741  INFO 2732 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
-2019-07-24 11:38:41.160  INFO 2732 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
-2019-07-24 11:38:41.565  INFO 2732 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 11:38:42.226  WARN 2732 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2019-07-24 11:38:42.428  WARN 2732 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
-2019-07-24 11:38:42.678  INFO 2732 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30b5400e, org.springframework.security.web.context.SecurityContextPersistenceFilter@580eff06, org.springframework.security.web.header.HeaderWriterFilter@13a4e495, org.springframework.security.web.csrf.CsrfFilter@4c1afa21, org.springframework.security.web.authentication.logout.LogoutFilter@9fac413, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@2ce61cb1, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4575eef0, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@70194610, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@70836e85, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@130239fc, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@775e923f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d320ed2, org.springframework.security.web.session.SessionManagementFilter@5c2324a1, org.springframework.security.web.access.ExceptionTranslationFilter@5d74d126, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4abe8b1]
-2019-07-24 11:38:42.710  WARN 2732 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
-2019-07-24 11:38:42.787  INFO 2732 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2019-07-24 11:38:42.859  INFO 2732 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
-2019-07-24 11:38:42.863  INFO 2732 --- [restartedMain] com.example.demo.Application             : Started Application in 8.441 seconds (JVM running for 9.568)
-2019-07-24 11:38:45.800  INFO 2732 --- [http-nio-9999-exec-2] o.a.c.c.C.[.[localhost].[/spring.demo]   : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2019-07-24 11:38:45.801  INFO 2732 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2019-07-24 11:38:45.811  INFO 2732 --- [http-nio-9999-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
-2019-07-24 13:05:19.564  WARN 2732 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h26m40s565ms755µs500ns).
-2019-07-24 13:05:19.618  INFO 2732 --- [Thread-28] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2019-07-24 13:05:19.624  INFO 2732 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2019-07-24 13:05:19.629  INFO 2732 --- [Thread-28] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2020-02-27 11:45:38.188  INFO 1748 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.SQLServer2012Dialect
+2020-02-27 11:45:38.229  INFO 1748 --- [restartedMain] org.hibernate.tuple.PojoInstantiator     : HHH000182: No default (no-argument) constructor for class: com.example.demo.model.domain.SysConfig (class must be instantiated by Interceptor)
+2020-02-27 11:45:38.246  INFO 1748 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-27 11:45:38.363  WARN 1748 --- [restartedMain] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-02-27 11:45:38.403  WARN 1748 --- [restartedMain] o.s.b.a.f.FreeMarkerAutoConfiguration    : Cannot find template location(s): [classpath:/templates/] (please add some templates, check your FreeMarker configuration, or set spring.freemarker.checkTemplateLocation=false)
+2020-02-27 11:45:38.447  INFO 1748 --- [restartedMain] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@682247b9, org.springframework.security.web.context.SecurityContextPersistenceFilter@255dfa2e, org.springframework.security.web.header.HeaderWriterFilter@57e3ac9, org.springframework.security.web.csrf.CsrfFilter@61d70576, org.springframework.security.web.authentication.logout.LogoutFilter@38b8b7fc, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@638ee5bf, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@72febf07, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6bde93d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@29c0b68c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@3f004c69, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4b5c9132, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@128a5748, org.springframework.security.web.session.SessionManagementFilter@7cf8bc72, org.springframework.security.web.access.ExceptionTranslationFilter@63af3d19, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@50e7c2d2]
+2020-02-27 11:45:38.458  WARN 1748 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-02-27 11:45:38.482  INFO 1748 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-02-27 11:45:38.511  INFO 1748 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9999 (http) with context path '/spring.demo'
+2020-02-27 11:45:38.512  INFO 1748 --- [restartedMain] com.example.demo.Application             : Started Application in 1.968 seconds (JVM running for 1056.865)
+2020-02-27 11:45:38.517  INFO 1748 --- [SimpleAsyncTaskExecutor-24] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
