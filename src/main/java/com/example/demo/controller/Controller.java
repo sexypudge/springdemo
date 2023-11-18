@@ -56,7 +56,7 @@ public class Controller {
 //        map.put("luongnv", extraConfig.getLuongnv());
 //        map.put("environment", environment.getProperty("luong"));
         LangEnum en = conversionService.convert("en", LangEnum.class);
-        System.out.println(en.getLabel());
+        System.out.println(en.getLabel() + "");
         map.put("en", en.getLabel());
         return map;
     }
